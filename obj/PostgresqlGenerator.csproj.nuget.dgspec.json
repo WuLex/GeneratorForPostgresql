@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitProject\\PostgresqlGenerator\\PostgresqlGenerator.csproj": {}
+    "E:\\GitProject\\GeneratorForPostgresql\\PostgresqlGenerator.csproj": {}
   },
   "projects": {
-    "E:\\GitProject\\PostgresqlGenerator\\PostgresqlGenerator.csproj": {
+    "E:\\GitProject\\GeneratorForPostgresql\\PostgresqlGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitProject\\PostgresqlGenerator\\PostgresqlGenerator.csproj",
+        "projectUniqueName": "E:\\GitProject\\GeneratorForPostgresql\\PostgresqlGenerator.csproj",
         "projectName": "PostgresqlGenerator",
-        "projectPath": "E:\\GitProject\\PostgresqlGenerator\\PostgresqlGenerator.csproj",
+        "projectPath": "E:\\GitProject\\GeneratorForPostgresql\\PostgresqlGenerator.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\GitProject\\PostgresqlGenerator\\obj\\",
+        "outputPath": "E:\\GitProject\\GeneratorForPostgresql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
