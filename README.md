@@ -1,4 +1,9 @@
 # GeneratorForPostgresql
+
+Postgresql database dictionary generator, generate Excel, Word documents
+
+----------------
+
 Postgresql数据字典生成器,生成Word文档
 
 ## 如图
