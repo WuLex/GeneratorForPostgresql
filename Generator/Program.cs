@@ -9,7 +9,7 @@ namespace PostgresqlGenerator
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new DataFormMain());
+            Application.Run(new EntityGeneratorForm());
         }
     }
 }
